@@ -1,0 +1,62 @@
+html {
+    background-color: black;
+    color: cornsilk;
+    font-size: 0.9rem;
+}
+
+#title {
+    height: auto;
+    width: auto;
+    text-align: center;
+
+}
+
+#card1 {
+    border-bottom: black;
+    border-top:black ;
+    border-left: cornsilk;
+    border-right: cornsilk;
+    border-style: ridge;
+    text-align: left;
+    height: 200px;
+    width:220px;
+    padding-left: 10px;
+    margin: 0px;
+    position: relative;
+    top:291px;
+    left:500px;
+}
+
+#card2 {
+    border-bottom: black;
+    border-top:black ;
+    border-left: cornsilk;
+    border-right: cornsilk;
+    border-style: ridge;
+    text-align: left;
+    height: 200px;
+    width:220px;
+    padding-left: 10px;
+    margin: 0px;
+    position: relative;
+    top:86px;
+    left:800px;
+}
+
+
+#card3 {
+    border-bottom: black;
+    border-top:black ;
+    border-left: cornsilk;
+    border-right: cornsilk;
+    border-style: ridge;
+    text-align: left;
+    height: 200px;
+    width:220px;
+    padding-left: 10px;
+    margin: 0px;
+    position: relative;
+    top:-119px;
+    left:1100px;
+}
+
